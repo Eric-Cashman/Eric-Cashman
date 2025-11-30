@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hey there 👋
+
+I'm Eric, I'm based in the Puget Sound area, currently studying for my Bachelor's in Application Development at North Seattle College.
+
 
 <!--
 **Eric-Cashman/Eric-Cashman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
